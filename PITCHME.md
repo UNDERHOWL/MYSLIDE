@@ -1,6 +1,6 @@
 # MYSLIDE
 # 1
-### TEAM C
+## TEAM C
 
 
 サービスロボット
