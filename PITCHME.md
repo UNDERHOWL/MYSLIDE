@@ -1,7 +1,7 @@
 # MYSLIDE
 # 1
 ## TEAM C
-### 目覚ましPLENKUN
+### 目覚まし ## PLENKUN
 
 
 
