@@ -2,12 +2,8 @@
 theme : white
 
 
-#ロゴアイコンの設定
-logo : iph.jpg
-
-
 #フットノートの設定
-footnote : "© 2017 sample Inc."
+footnote : "© 2020 chan Inc."
 
 
 #スライドのページ数表示の設定
